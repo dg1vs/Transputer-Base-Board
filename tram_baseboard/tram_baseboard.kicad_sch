@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "12343f12-7a98-419f-8ba8-29be77ce6edd")
 	(paper "A4" portrait)
+	(title_block
+		(title "TRAM-Baseboard")
+		(date "2026-05-25")
+		(rev "1")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers
@@ -9169,7 +9174,7 @@
 			(uuid "15297df3-f2f4-4978-bb6d-286b70d26abd")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "R8")
 					(unit 1)
@@ -9240,7 +9245,7 @@
 			(uuid "b80b3c80-cd20-402f-9841-b0c338be4c97")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "J1")
 					(unit 1)
@@ -9305,7 +9310,7 @@
 			(uuid "3d262392-0b9f-4805-a24f-5ffa0a6a9c69")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR065")
 					(unit 1)
@@ -9370,7 +9375,7 @@
 			(uuid "0822e7e7-79be-49b7-8067-dc2b93ad5db4")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR04")
 					(unit 1)
@@ -9435,7 +9440,7 @@
 			(uuid "00d22003-3082-4478-bf62-b24551eec539")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR07")
 					(unit 1)
@@ -9505,7 +9510,7 @@
 			(uuid "5bcb6dbb-d5d6-4ee9-b6c6-a880b6c7fc9f")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "R5")
 					(unit 1)
@@ -9578,7 +9583,7 @@
 			(uuid "d8cee85c-0528-4a9b-b8d9-d447ec27714d")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "JP2")
 					(unit 1)
@@ -9651,7 +9656,7 @@
 			(uuid "fe60dfd8-0530-428b-be17-c6ee652f1a56")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "JP1")
 					(unit 1)
@@ -9718,7 +9723,7 @@
 			(uuid "dcdfef5c-1974-4d76-b012-eaca7f0519f1")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR067")
 					(unit 1)
@@ -9783,7 +9788,7 @@
 			(uuid "7f93215c-4ed2-482d-bdbb-5a7ce1228ebd")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR025")
 					(unit 1)
@@ -9850,7 +9855,7 @@
 			(uuid "582fc75e-7f2f-436d-a60d-e5e36eaaadae")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR08")
 					(unit 1)
@@ -9915,7 +9920,7 @@
 			(uuid "6f95c615-7157-4c00-b835-4daf26e3fbd8")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#FLG05")
 					(unit 1)
@@ -9982,7 +9987,7 @@
 			(uuid "cb4ec670-a01c-4a9b-b091-5d7d120725b6")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "R9")
 					(unit 1)
@@ -10093,7 +10098,7 @@
 			(uuid "81b39b32-6bfc-4bbb-b755-3baba9a82ffb")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "CON2")
 					(unit 1)
@@ -10163,7 +10168,7 @@
 			(uuid "093a7a09-b7a9-4f33-b3bb-84ef9dfd4022")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "R1")
 					(unit 1)
@@ -10228,7 +10233,7 @@
 			(uuid "715d0241-e40f-475a-9d8d-d6d956c2bdd0")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR044")
 					(unit 1)
@@ -10483,7 +10488,7 @@
 			(uuid "51bd83e1-0ceb-48fc-a37a-eb96402537ea")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "CON4")
 					(unit 1)
@@ -10548,7 +10553,7 @@
 			(uuid "624b1eaf-cc0f-4d26-9232-4896e31f37d7")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR029")
 					(unit 1)
@@ -10613,7 +10618,7 @@
 			(uuid "ab409d10-4db3-4159-bd41-e62059c1ca96")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR026")
 					(unit 1)
@@ -10678,7 +10683,7 @@
 			(uuid "802ae084-a32d-41bb-800a-6b11a2c143b5")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR05")
 					(unit 1)
@@ -10743,7 +10748,7 @@
 			(uuid "81e8bf1b-438b-4b47-a2c1-2ff607e2111c")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#FLG04")
 					(unit 1)
@@ -10810,7 +10815,7 @@
 			(uuid "271f8893-5584-4762-b192-41f3c7a3bfce")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR011")
 					(unit 1)
@@ -10875,7 +10880,7 @@
 			(uuid "0117a825-6fb6-4989-ae74-38c98cc70c40")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR03")
 					(unit 1)
@@ -10986,7 +10991,7 @@
 			(uuid "f4975b8d-b6fe-4aea-babd-b70762d66f90")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "CON1")
 					(unit 1)
@@ -11051,7 +11056,7 @@
 			(uuid "b87c9f05-9aae-403d-a384-5b9649639377")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR028")
 					(unit 1)
@@ -11116,7 +11121,7 @@
 			(uuid "5914ba53-3b9d-4fc8-ad1d-842195cb863a")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR02")
 					(unit 1)
@@ -11227,7 +11232,7 @@
 			(uuid "f524e27e-bb11-486c-b9a8-df086cfbee90")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "CON0")
 					(unit 1)
@@ -11294,7 +11299,7 @@
 			(uuid "b262dea7-0657-4a4e-ae11-8842d78df245")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "R6")
 					(unit 1)
@@ -11363,7 +11368,7 @@
 			(uuid "e5841f38-f9fc-4b4b-af7c-d330ae5bf3ef")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "C1")
 					(unit 1)
@@ -11428,7 +11433,7 @@
 			(uuid "aadd2bcd-e4cb-4dba-8de4-a1f95d44cfae")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR034")
 					(unit 1)
@@ -11495,7 +11500,7 @@
 			(uuid "539166f8-8138-44c3-9cd2-93295a2cd064")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "R7")
 					(unit 1)
@@ -11562,7 +11567,7 @@
 			(uuid "06ef202f-3c4a-4b9f-b228-aa4312332694")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR066")
 					(unit 1)
@@ -11673,7 +11678,7 @@
 			(uuid "915baf22-692b-49e9-82f9-3b395fbac5c9")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "CON3")
 					(unit 1)
@@ -11740,7 +11745,7 @@
 			(uuid "8fe56b8f-1d98-4b75-af0c-96de3707d4dc")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR09")
 					(unit 1)
@@ -11805,7 +11810,7 @@
 			(uuid "a4742a17-98d0-438b-97c1-f7c23dad5193")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR06")
 					(unit 1)
@@ -11870,7 +11875,7 @@
 			(uuid "f342ba3f-f258-4cb0-81a5-9850dc41f2fd")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR023")
 					(unit 1)
@@ -11944,7 +11949,7 @@
 			(uuid "a2434182-0e31-42ff-9d85-d219025646c3")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "QG2")
 					(unit 1)
@@ -12009,7 +12014,7 @@
 			(uuid "4506e919-04f7-43b0-90ec-aff205c84b5e")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR048")
 					(unit 1)
@@ -12074,7 +12079,7 @@
 			(uuid "44c9ca34-8263-4e2a-ba3b-f0713ff3f5ce")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR033")
 					(unit 1)
@@ -12148,7 +12153,7 @@
 			(uuid "4e8a79a3-6271-4d67-ae19-25ece4ad2589")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "LED1")
 					(unit 1)
@@ -12213,7 +12218,7 @@
 			(uuid "90a8eeda-9eeb-4796-a11d-ad6a04cd42cd")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR040")
 					(unit 1)
@@ -12289,7 +12294,7 @@
 			(uuid "77e694a4-a6e7-4e4a-b874-bb90f69ad01c")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "U6")
 					(unit 1)
@@ -12325,7 +12330,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical"
+		(property "Footprint" "Connector_IDC:IDC-Header_2x05_P2.54mm_Horizontal"
 			(at 15.494 191.008 90)
 			(effects
 				(font
@@ -12383,7 +12388,7 @@
 			(uuid "a35872f1-342b-424d-b22d-0a4759dd4ef4")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "U2")
 					(unit 1)
@@ -12449,7 +12454,7 @@
 			(uuid "6f6d6a1f-c3e3-42ec-ae84-56c57556dcd8")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR070")
 					(unit 1)
@@ -12514,7 +12519,7 @@
 			(uuid "62a52796-03ab-4d73-92b2-61eaf6e2a833")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR068")
 					(unit 1)
@@ -12581,7 +12586,7 @@
 			(uuid "b8335dde-5eb1-4752-b3c9-ac46f18ad6bf")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR018")
 					(unit 1)
@@ -12651,7 +12656,7 @@
 			(uuid "31a6afec-4921-48fc-81f4-27e34e58c813")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "R4")
 					(unit 1)
@@ -12813,7 +12818,7 @@
 			(uuid "5f86dac6-422e-4169-97d0-cfb1e7199d2e")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "U1")
 					(unit 1)
@@ -12878,7 +12883,7 @@
 			(uuid "8492aac8-7bc3-463a-8d77-4c12b09722cc")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR01")
 					(unit 1)
@@ -12943,7 +12948,7 @@
 			(uuid "64b73231-d752-4da3-9d9b-625dd75cac4f")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR027")
 					(unit 1)
@@ -13008,7 +13013,7 @@
 			(uuid "505df2dc-86a3-41b3-9682-36557da19404")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR043")
 					(unit 1)
@@ -13073,7 +13078,7 @@
 			(uuid "e0d9bcbd-259d-41c4-82f8-021c73405d47")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR069")
 					(unit 1)
@@ -13138,7 +13143,7 @@
 			(uuid "afc0bee7-1d4b-43ee-ba26-614c46d68930")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR030")
 					(unit 1)
@@ -13208,7 +13213,7 @@
 			(uuid "1be7a946-9743-44ce-b16e-4e569d9ea0af")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "R3")
 					(unit 1)
@@ -13278,7 +13283,7 @@
 			(uuid "9a3e337b-7d68-4a35-aafa-dad0ff837584")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "R2")
 					(unit 1)
@@ -13343,7 +13348,7 @@
 			(uuid "746827ba-684c-40ed-a916-60cda2e1e6ed")
 		)
 		(instances
-			(project "TRAM-Baseboard"
+			(project "tram_baseboard"
 				(path "/12343f12-7a98-419f-8ba8-29be77ce6edd"
 					(reference "#PWR024")
 					(unit 1)
