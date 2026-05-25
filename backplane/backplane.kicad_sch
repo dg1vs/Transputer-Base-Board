@@ -7,7 +7,7 @@
 	(title_block
 		(title "Tranputer Backplane")
 		(date "2026-05-24")
-		(rev "01")
+		(rev "0.1")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x01_Pin"
